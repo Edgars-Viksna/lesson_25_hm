@@ -26,8 +26,8 @@ public enum MoonPhases {
     }
 
     public static void print(MoonPhases phase) {
-            System.out.println(phase + " " + phase.getDescription());
-        }
+        System.out.println(phase + " " + phase.getDescription());
+    }
 
 
 }
